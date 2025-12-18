@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wzhipeng750-hub.github.io/fs/sitemap.xml
